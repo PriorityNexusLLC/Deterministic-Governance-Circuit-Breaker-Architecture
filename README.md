@@ -80,5 +80,6 @@ To maintain operational security and protect proprietary intellectual property, 
 Priority Nexus is actively engaging with select R&D assurance agencies, specialty risk underwriters, and mission-aligned institutional partners committed to **Identity, Transparency, and Integrity** for pilot validation and non-dilutive development.
 
 * **Architecture & Systems Lead:** Josie Anderson  
+* **Contact:** theaistherapist@gmail.com  
 * **Core Mandate:** Identity • Transparency • Integrity  
 * **License:** Apache License 2.0 (see [LICENSE](LICENSE)). Proprietary threshold configurations are not part of this repository.
