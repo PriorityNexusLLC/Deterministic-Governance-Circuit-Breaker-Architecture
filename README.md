@@ -3,7 +3,7 @@
 [![Status: R&D Prototype](https://img.shields.io/badge/Status-Active_R%26D-blue.svg)]()
 [![Core Mission: Identity | Transparency | Integrity](https://img.shields.io/badge/Core_Mission-Identity_%7C_Transparency_%7C_Integrity-gold.svg)]()
 [![Architecture: Zero-Trust](https://img.shields.io/badge/Architecture-Deterministic_Fail--Safe-red.svg)]()
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary_%2F_All_Rights_Reserved-darkgray.svg)]()
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 > **Foundational Mandate:** *Identity, Transparency, and Integrity are the non-negotiable core, mission, and intent driving every layer of this innovation.*
 
@@ -69,10 +69,16 @@ To maintain operational security and protect proprietary intellectual property, 
 
 ---
 
+## Working Implementation
+
+**[PNMaster-Graph](https://github.com/PriorityNexusLLC/PNMaster-Graph)** applies this architecture to institutional governance: an evidence-first map of who governs what, built only from official public records, with the gates, tamper-evident audit log and two-pass report review described here. Concept paper: [docs/concept-paper.md](docs/concept-paper.md).
+
+---
+
 ## Inquiries & Institutional Partnerships
 
 Priority Nexus is actively engaging with select R&D assurance agencies, specialty risk underwriters, and mission-aligned institutional partners committed to **Identity, Transparency, and Integrity** for pilot validation and non-dilutive development.
 
 * **Architecture & Systems Lead:** Josie Anderson  
 * **Core Mandate:** Identity • Transparency • Integrity  
-* **Classification:** Proprietary Architecture — Distribution Restricted
+* **License:** Apache License 2.0 (see [LICENSE](LICENSE)). Proprietary threshold configurations are not part of this repository.
